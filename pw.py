@@ -17,7 +17,6 @@ if len(sys.argv) < 2:
 
 
 account = sys.argv[1]  # first command line arg is the account name
-print(account)
 
 
 if account in PASSWORDS:
